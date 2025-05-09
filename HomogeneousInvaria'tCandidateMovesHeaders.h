@@ -15,5 +15,5 @@ public:
   //then do alpha beta
 
  //then use impulse theories to have differential esuations.
-
+ //dont use separate spherical or cartesian or cylindiracal equations.
 }
